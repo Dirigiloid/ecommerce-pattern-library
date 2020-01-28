@@ -2,4 +2,19 @@ permalink: pretty
 theme: jekyll_patternbot
 
 patternbot:
+  title: "Hedfon"
+  description: |
+    An e-commerce website dedicated to selling headphones.
   font_url: "https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap&subset=latin-ext"
+  colors:
+    background: "--color-greybg"
+    accent: "--color-secondary"
+    patterns:
+      brand.logos: "--color-primary"
+  rationales:
+    typefaces.primary: |
+      Lato was chosen due to its clean and professional aesthetic. It has a range of weights that allows it to be used effectively in a wide range of applications.
+    colors.primary: |
+      The primary colour is dark and gives a professional vibe while still allowing some colour differentiation from other audio retailers.
+    colors.secondary: |
+      The secondary colour is brighter and grabs more attention when placed with the dark primary or the flat white of the website's pages.

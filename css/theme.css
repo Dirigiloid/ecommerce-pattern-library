@@ -1,7 +1,8 @@
 :root {
   --color-primary: #262262;
   --color-secondary: #00A79D;
-  --color-greybg: #F1F2F2;
+  --color-greybg: #e1e1e1;
+  --color-white: #FFF;
 
   --font-primary: "Lato", Arial, sans-serif;
 }
