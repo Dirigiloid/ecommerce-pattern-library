@@ -1,0 +1,19 @@
+header {
+  background-color: var(--color-primary);
+  padding-top: 1em;
+}
+
+footer {
+  background-color: var(--color-primary);
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.nav {
+  justify-content: space-around;
+}
+
+
+ul {
+  text-decoration: none;
+}
