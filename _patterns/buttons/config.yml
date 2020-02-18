@@ -1,0 +1,15 @@
+title: "buttons"
+description: |
+  Buttons should be used in situations where a dramatic, obvious action is required. Try not to over use buttons because they should be the primary call-to-action for a screen.
+
+patterns:
+  basic:
+    title: "basic"
+    description: |
+      Default button, only used on light backgrounds.
+    width: "12em"
+  ghost:
+    title: "Ghost"
+    description: |
+      The ghost button is to be used on product cards with the grey colour.
+    background: "--color-greybg"
