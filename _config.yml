@@ -18,3 +18,6 @@ patternbot:
       The primary colour is dark and gives a professional vibe while still allowing some colour differentiation from other audio retailers.
     colors.secondary: |
       The secondary colour is brighter and grabs more attention when placed with the dark primary or the flat white of the website's pages.
+  layouts:
+    default: |
+      The default layout to be used for most pages. Includes
