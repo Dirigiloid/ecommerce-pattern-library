@@ -1,0 +1,19 @@
+div {
+  background-color: var(--color-greybg);
+  max-width: 20em;
+  font-weight: 400;
+  font-family: Lato;
+  padding: 1.5em
+}
+
+h2 {
+  margin: 0;
+}
+
+p {
+  margin-bottom: 1em
+}
+
+.white {
+  background-color: var(--color-white);
+}
