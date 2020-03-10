@@ -1,0 +1,14 @@
+title: "Banners"
+description: |
+  Banners are for making a big statement.
+
+patterns:
+  basic:
+    title: "Main Banner"
+    description: |
+      Default banner, very big and links to product page.
+    fields:
+      - name: "text"
+        example: "Buy headphones now right here click me!"
+      - name: "url"
+        example: "/products/"

@@ -8,8 +8,29 @@ patterns:
     description: |
       Default button, only used on light backgrounds.
     width: "12em"
+    fields:
+      - name: "text"
+        example: "Button"
+      - name: "url"
+        example: "/products/"
   ghost:
     title: "Ghost"
     description: |
       The ghost button is to be used on product cards with the grey colour.
-    background: "--color-greybg"
+    background: "--color-white"
+    width: "12em"
+    fields:
+      - name: "text"
+        example: "Button"
+      - name: "url"
+        example: "/products/"
+  light:
+    title: "Light"
+    description: |
+      The light button is to be used on light backgrounds.
+    width: "12em"
+    fields:
+      - name: "text"
+        example: "Button"
+      - name: "url"
+        example: "/products/"

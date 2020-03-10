@@ -1,0 +1,9 @@
+.banner {
+  background-color: var(--color-secondary);
+  border: none;
+  color: var(--color-white);
+  text-decoration: none;
+  border-radius: 0;
+  font-family: Lato;
+  font-weight: bold;
+}
