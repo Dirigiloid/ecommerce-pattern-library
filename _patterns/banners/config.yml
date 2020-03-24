@@ -3,7 +3,7 @@ description: |
   Banners are for making a big statement.
 
 patterns:
-  basic:
+  mainbanner:
     title: "Main Banner"
     description: |
       Default banner, very big and links to product page.
