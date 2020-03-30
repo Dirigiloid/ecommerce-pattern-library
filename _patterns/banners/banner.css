@@ -2,8 +2,3 @@
   align-content: center;
   padding: 5em;
 }
-
-.banner:hover {
-  background-color: transparent;
-  color: var(--color-secondary);
-}

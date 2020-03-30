@@ -1,0 +1,21 @@
+title: "Forms"
+description: |
+  Things that get filled out.
+
+patterns:
+  name:
+    title: "Name"
+    description: |
+      Put name here.
+  email:
+    title: "E-mail"
+    description: |
+      Put email here.
+  address:
+    title: "Address"
+    description: |
+      Put address here.
+  postalcode:
+    title: "Post code"
+    description: |
+      Put postal code here.

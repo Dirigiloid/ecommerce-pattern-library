@@ -8,7 +8,5 @@ patterns:
     description: |
       Default banner, very big and links to product page.
     fields:
-      - name: "text"
-        example: "Buy headphones now right here click me!"
       - name: "url"
         example: "/products/"

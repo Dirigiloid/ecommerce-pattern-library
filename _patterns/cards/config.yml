@@ -1,0 +1,15 @@
+title: "Cards"
+description: |
+  Cards for content.
+
+patterns:
+
+  textfield:
+    title: "Text Field"
+    description: |
+      Put words here.
+    fields:
+      - name: "h2"
+        example: "H2"
+      - name: "p"
+        example: "lorem ipsum solar"
