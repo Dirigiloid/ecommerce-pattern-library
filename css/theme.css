@@ -14,3 +14,30 @@ ul {
 a {
   text-decoration: none;
 }
+
+h1 {
+  font-family: lato;
+  color: var(--color-primary);
+  font-weight: 600;
+}
+
+h2 {
+  font-family: lato;
+  color: var(--color-primary);
+  font-weight: 400;
+}
+
+
+h3 {
+  font-family: lato;
+  color: var(--color-primary);
+  font-weight: 400;
+}
+
+p {
+  font-family: lato;
+}
+
+.producttext {
+  text-align: center;
+}
