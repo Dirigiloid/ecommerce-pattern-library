@@ -41,3 +41,7 @@ p {
 .producttext {
   text-align: center;
 }
+
+.productspread {
+  justify-content: center;
+}
