@@ -34,3 +34,13 @@ patterns:
         example: "Button"
       - name: "url"
         example: "/products/"
+  bigbutton:
+    title: "Big"
+    description: |
+      The big button is to be used on big calls to action.
+    width: "24em"
+    fields:
+      - name: "text"
+        example: "Button"
+      - name: "url"
+        example: "/products/"
