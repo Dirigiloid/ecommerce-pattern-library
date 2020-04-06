@@ -49,3 +49,11 @@ p {
 .productspread {
   justify-content: center;
 }
+
+.registersubmit {
+  margin: 2em;
+}
+
+.productshot {
+  max-width: 1000px
+}
