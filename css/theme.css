@@ -27,6 +27,8 @@ h2 {
   font-family: lato;
   color: var(--color-primary);
   font-weight: 400;
+  padding-left: 1.5em;
+  padding-right: 1em;
 }
 
 
@@ -34,6 +36,8 @@ h3 {
   font-family: lato;
   color: var(--color-primary);
   font-weight: 400;
+  padding-left: 1.5em;
+  padding-right: 1em;
 }
 
 p {
@@ -55,5 +59,5 @@ p {
 }
 
 .productshot {
-  max-width: 1000px
+  max-width: 1000px;
 }
