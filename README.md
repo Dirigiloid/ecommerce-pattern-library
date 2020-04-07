@@ -2,6 +2,9 @@ What is Hedfon?
 
 Hedfon is an e-commerce website based around the sale of various high quality headphones and headphone products. The general tone to be set by the website is that of a dedicated group of audio enthusiasts and as a result carries with the stereotype a little pretentiousness and a tasteful sprinkle of unprofessional verbiage. A feel of exclusivity and inclusivity are to be maintained in a careful balance through all messaging and visuals.
 
+netlify link:
+https://practical-feynman-9739f8.netlify.com
+
 ## Installation
 
 The pattern library is a Jekyll & Patternbot based application, so it requires Ruby to be installed.
