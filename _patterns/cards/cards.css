@@ -8,12 +8,12 @@
 
 .cardtitle {
   margin: 0;
-  margin-left: 0;
+  padding-left: 0;
 }
 
 .cardtext {
   margin-bottom: 1em;
-  margin-left: 0em;
+  padding-left: 0em;
 }
 
 .cardwhite {

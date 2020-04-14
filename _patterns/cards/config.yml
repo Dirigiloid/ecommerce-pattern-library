@@ -5,19 +5,29 @@ description: |
 patterns:
 
   textfield:
-    title: "Text Field (wip)"
+    title: "Text Field"
     description: |
       Put words here.
     fields:
-      - name: "h2"
+      - name: "texttitle"
         example: "H2"
-      - name: "p"
+      - name: "textbody"
         example: "lorem ipsum solar"
   headphone:
     title: "Product Card Grey"
     description: |
       Product card with a grey background, for alternating use with the white background product card.
+    fields:
+      - name: "title"
+        example: "H2"
+      - name: "text"
+        example: "lorem ipsum solar"
   headphonew:
     title: "Product Card White"
     description: |
       Product card with a white background, for alternating use with the grey background product card.
+    fields:
+      - name: "title"
+        example: "H2"
+      - name: "text"
+        example: "lorem ipsum solar"
