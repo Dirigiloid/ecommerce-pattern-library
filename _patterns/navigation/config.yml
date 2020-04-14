@@ -12,3 +12,16 @@ patterns:
     title: "Footer"
     description: |
       For being at the bottom of the page.
+  leftcallout:
+    title: "Callout left"
+    description: |
+      Use this to make a simple callout to a different page, alternate with right when using more than one in a row.
+    fields:
+      - name: "title"
+        example: "H2"
+      - name: "text"
+        example: "lorem ipsum solar"
+      - name: "textbtn"
+        example: "click me"
+      - name: "url"
+        example: "/products/"

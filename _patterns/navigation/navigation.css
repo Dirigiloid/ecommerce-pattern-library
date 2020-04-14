@@ -12,3 +12,34 @@ footer {
 .nav {
   justify-content: space-around;
 }
+
+.smallpic {
+  max-height: 400px;
+  margin: 0em;
+  padding: 0em;
+}
+
+.inlineblock {
+  display: inline-block;
+}
+
+.callout {
+  margin: 2em;
+  padding: 2em;
+}
+
+.btncallout {
+  margin-left: 2em;
+}
+
+.floatright {
+  float: right;
+}
+
+.gbg {
+  background-color: var(--color-greybg);
+}
+
+.wbg {
+  background-color: var(--color-white);
+}
