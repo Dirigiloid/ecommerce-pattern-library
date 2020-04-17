@@ -1,4 +1,9 @@
 .banner {
   align-content: center;
   padding: 2em;
+  background-color: var(--color-secondary);
+}
+
+.whitetext {
+  color: var(--color-white);
 }

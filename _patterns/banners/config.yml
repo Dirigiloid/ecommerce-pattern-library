@@ -10,3 +10,10 @@ patterns:
     fields:
       - name: "url"
         example: "/products/"
+  banner2:
+    title: "Call to action banner"
+    description: |
+      Default banner, very big and links to product page.
+    fields:
+      - name: "url"
+        example: "/products/"

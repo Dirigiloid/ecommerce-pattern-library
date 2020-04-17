@@ -7,6 +7,11 @@
   --font-primary: "Lato", Arial, sans-serif;
 }
 
+a {
+  font-family: lato;
+  color: var(--color-white);
+}
+
 ul, ol {
   text-decoration: none;
 }
@@ -24,24 +29,25 @@ strong, b {
   font-weight: bold;
 }
 
+mark {
+  color: black;
+}
+
 a {
   text-decoration: none;
+  color: var(--color-white);
 }
 
 h1 {
   font-family: lato;
   color: var(--color-primary);
   font-weight: 600;
-  padding-left: 1.5em;
-  padding-right: 1em;
 }
 
 h2 {
   font-family: lato;
   color: var(--color-primary);
   font-weight: 400;
-  padding-left: 1.5em;
-  padding-right: 1em;
 }
 
 
@@ -49,50 +55,37 @@ h3 {
   font-family: lato;
   color: var(--color-primary);
   font-weight: 400;
-  padding-left: 1.5em;
-  padding-right: 1em;
+
 }
 
 h4 {
   font-family: lato;
   color: var(--color-primary);
   font-weight: 400;
-  padding-left: 1.5em;
-  padding-right: 1em;
 }
 
 h5 {
   font-family: lato;
   color: var(--color-primary);
   font-weight: 400;
-  padding-left: 1.5em;
-  padding-right: 1em;
 }
 
 h6 {
   font-family: lato;
   color: var(--color-primary);
   font-weight: 400;
-  padding-left: 1.5em;
-  padding-right: 1em;
 }
 
 p {
   font-family: lato;
-  padding-left: 2em;
-  padding-right: 2em;
 }
 
 dd, li {
   font-family: lato;
-  padding-left: 2em;
-  padding-right: 2em;
 }
 
 dt {
   font-family: lato;
-  padding-left: 2em;
-  padding-right: 2em;
   font-weight: bold;
 }
 
