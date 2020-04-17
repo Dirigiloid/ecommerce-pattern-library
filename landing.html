@@ -2,8 +2,8 @@
 layout: default
 ---
 {% pattern cards/textfield texttitle="BULK PRICING ALERT" textbody="Careful there, down below are some serious bulk purchase bargains!" %}
-{% pattern banners/mainbanner url="/products/" %}
-<div class="grid productspread">
+{% pattern banners/banner2 url="/products/" %}
+<div class="grid productspread pad-t pad-b-2">
   {% pattern cards/headphone title="Trekz Titanium" text="Bone conduction headphones" %}
   {% pattern cards/headphonew title="Trekz Titanium-er" text="Bone conduction-er headphones" %}
 </div>
@@ -44,7 +44,7 @@ layout: default
     <td>$470</td>
   </tr>
 </table>
-<div class="registersubmit">
+<div class="registersubmit pad-t pad-b-2 gutter">
   {% pattern forms/email %}
   {% pattern buttons/basic text="Submit" url="/index/" %}
 </div>

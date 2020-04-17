@@ -4,6 +4,14 @@ description: |
 
 patterns:
 
+  nextproduct:
+    title: "Next & previous product buttons"
+    description: |
+      For to the next product page or the previous product page.
+  next:
+    title: "Next & previous buttons"
+    description: |
+      For to the next page or the previous page.
   main_nav:
     title: "Header"
     description: |

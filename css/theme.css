@@ -35,7 +35,7 @@ mark {
 
 a {
   text-decoration: none;
-  color: var(--color-white);
+  color: var(--color-secondary);
 }
 
 h1 {
@@ -95,10 +95,6 @@ dt {
 
 .productspread {
   justify-content: center;
-}
-
-.registersubmit {
-  margin: 2em;
 }
 
 .productshot {
