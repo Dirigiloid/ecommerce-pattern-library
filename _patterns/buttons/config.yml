@@ -3,6 +3,16 @@ description: |
   Buttons should be used in situations where a dramatic, obvious action is required. Try not to over use buttons because they should be the primary call-to-action for a screen.
 
 patterns:
+  cartbutton:
+    title: "Cart button"
+    description: |
+      Default button, but with cart icon.
+    width: "12em"
+    fields:
+      - name: "text"
+        example: "Button"
+      - name: "url"
+        example: "/cart/"
   basic:
     title: "basic"
     description: |
