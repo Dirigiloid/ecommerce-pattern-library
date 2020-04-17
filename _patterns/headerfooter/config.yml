@@ -1,0 +1,14 @@
+title: "Header and Footer"
+description: |
+  Headers and Footers.
+
+patterns:
+
+  main_nav:
+    title: "Header"
+    description: |
+      For being at the top of the page.
+  footer:
+    title: "Footer"
+    description: |
+      For being at the bottom of the page.
